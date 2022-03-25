@@ -113,13 +113,13 @@ img {
 
 #default {
   filter: grayscale(60%);
-  background-image: url(../public/sample.jpg);
+  background-image: url(../public/sample2.jpg);
   border-top-left-radius: 1rem;
   border-bottom-left-radius: 1rem;
 }
 
 #picture {
-  background-image: url(../public/sample.jpg);
+  background-image: url(../public/sample2.jpg);
   border-top-right-radius: 1rem;
   border-bottom-right-radius: 1rem;
 }
